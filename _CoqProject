@@ -1,0 +1,17 @@
+-R ./Basics Math
+
+Basics/Unbundled/Notations.v
+Basics/Unbundled/Setoid.v
+Basics/Unbundled/Operators.v
+Basics/Unbundled/Semigroup.v
+Basics/Unbundled/Monoid.v
+Basics/Unbundled/CMonoid.v
+Basics/Unbundled/Group.v
+Basics/Unbundled/AbGroup.v
+Basics/Unbundled/Semiring.v
+Basics/Unbundled/Ring.v
+Basics/Unbundled/CRing.v
+Basics/Unbundled/Field.v
+Basics/Unbundled/VectorSpace.v
+Basics/Unbundled/Unbundled.v
+Basics/Numbers.v
